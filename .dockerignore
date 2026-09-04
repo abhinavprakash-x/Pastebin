@@ -1,0 +1,6 @@
+build/
+.git/
+data/*
+!data/.gitkeep
+*.db
+test_*.db
