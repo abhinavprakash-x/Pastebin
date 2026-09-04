@@ -1,0 +1,32 @@
+# Build directories
+build/
+bin/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Runtime data
+data/*
+!data/.gitkeep
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.db
+
+# Scratch / Logs
+*.log
+scratch/
